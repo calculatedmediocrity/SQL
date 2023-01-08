@@ -4,5 +4,5 @@
 
 | Название БД       | Описание                          |Темы|
 | :-------------:|:------------------------:|:-----:|
-| Computer Company|Содержит информацию о производителях ПК, ноутбуков, принтеров |Selection, single row functions, Joins, Subqueries|
+| [Computer Company](https://github.com/calculatedmediocrity/SQL-Ex.ru/blob/78874c8eab94c736f35a7bacde56a79d3ef181e2/DB%20Computer%20Company/DB_Schema.md)|Содержит информацию о производителях ПК, ноутбуков, принтеров |Selection, single row functions, Joins, Subqueries|
 
